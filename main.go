@@ -7,6 +7,6 @@ func add(x,y int) int {
 	
 }
 func main()  {
-	fmt.Println(add(12,23))
+	fmt.Println(add(13,23))
 	
 }
