@@ -1,4 +1,4 @@
-//chapter new
+//chapter 9
 package main
 
 import "fmt"
